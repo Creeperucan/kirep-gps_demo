@@ -9,3 +9,7 @@ If you need assistance regarding the script or pre-sales information, you should
 # About Documentation
 
 Our documentation is updated and renewed after each update. Currently, our script is designed only for QB-Core, and we plan to add it to ESX soon. If you notice any missing information or issues in the documentation, you can report it to us via Discord. To access the documentation, [CLICK HERE](https://kirep-studios.gitbook.io/kirep-studios).
+
+# About the HTML Menu
+
+I'm sure you think our HTML menu looks ugly. You can edit and use our HTML file if you wish, and you can share this HTML file for **free**.
